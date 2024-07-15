@@ -1,0 +1,28 @@
+/* General styles */
+.hero {
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .what-we-do {
+    padding: 50px 0;
+  }
+  
+  .our-project {
+    padding: 50px 0;
+  }
+  
+  .project-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Modal styles */
+  .modal-body {
+    max-height: calc(100vh - 200px);
+    overflow-y: auto;
+  }
+  
+  /* Customize as per your design */
+  
+  
